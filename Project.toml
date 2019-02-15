@@ -1,0 +1,6 @@
+authors = ["Rajiv Abraham <rajiv.abraham@gmail.com>"]
+name = "MiniKanren"
+uuid = "44ce247e-dc3d-11e8-22d9-d143fe765b8f"
+version = "0.1.0"
+
+[deps]
